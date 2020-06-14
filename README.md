@@ -1,1 +1,1 @@
-## This project is not available right now
+## This project is outdated and not available right now
