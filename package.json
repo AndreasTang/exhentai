@@ -4,7 +4,7 @@
   "description": "",
   "main": "functions.js",
   "dependencies": {
-    "async": "^3.1.0",
+    "async": "^3.2.2",
     "chalk": "^2.4.2",
     "cheerio": "^1.0.0-rc.3",
     "jquery": "^3.4.1",
